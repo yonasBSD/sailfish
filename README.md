@@ -27,7 +27,7 @@ Dependencies:
 
 ```toml
 [dependencies]
-sailfish = "0.10.2"
+sailfish = "0.11.0-beta.0"
 ```
 
 You can choose to use `TemplateSimple` to access fields directly:
